@@ -1,4 +1,4 @@
-# NEWS-MONKEY
+# NEWS-MONKEY 
 
 Your daily dose of all type of news curated the way you want, designed in a way where news can be read without ads and without any hustle.
 

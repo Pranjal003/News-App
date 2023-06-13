@@ -1,5 +1,5 @@
 # NEWS-MONKEY 
-
+    
 Your daily dose of all type of news curated the way you want, designed in a way where news can be read without ads and without any hustle.
 
 The API is designed to fetch news directly from TOI, and other trusted sources so that you only get top original happenings in and around the globe.
